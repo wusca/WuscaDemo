@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/8bit_bomb_explosion.wav-ec80e6e864612c4a1c7c3871125d8ce2.sample"
+
+[deps]
+
+source_file="res://Sound/8bit_bomb_explosion.wav"
+dest_files=[ "res://.import/8bit_bomb_explosion.wav-ec80e6e864612c4a1c7c3871125d8ce2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
